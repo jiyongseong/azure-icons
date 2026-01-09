@@ -2,10 +2,11 @@
 Azure 아키콘(Architecture Icons)을 PPTX 슬라이드 또는 Markdown 문서로 제공하는 저장소입니다. Microsoft Learn의 공식 Azure 아이콘을 기반으로 하며, 아키텍처 다이어그램/문서 작업을 빠르게 시작할 수 있도록 돕습니다. 
 
 ## 최신 문서
-[v23 - November 2025 업데이트 버전, markdown](./build/md/v23/Azure_Public_Service_Icons_V23.md)
+[Azure v23 - November 2025 업데이트 버전, markdown](./build/md/v23/Azure_Public_Service_Icons_V23.md)
  
-[v23 - November 2025 업데이트 버전, ppt](./build/ppt/Azure_Icon_jyseong@Nov-2025.pptx)
-
+[Azure v23 - November 2025 업데이트 버전, ppt](./build/ppt/Azure_Icon_jyseong@Nov-2025.pptx)
+[Microsoft Fabric, markdown](./build/md/MSFT_Fabric/MSFT-Fabric.md)
+S
 ## 📦 저장소 구조
     .
     ├─ icons/                 # 공식 Azure 아이콘 zip 파일들
