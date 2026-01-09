@@ -3,12 +3,12 @@ Azure 아키콘(Architecture Icons)을 PPTX 슬라이드 또는 Markdown 문서�
 
 ## 최신 문서
 
-### Azure 
+**Azure** 
 - [Azure v23 - November 2025 업데이트 버전, markdown](./build/md/v23/Azure_Public_Service_Icons_V23.md)
  
 - [Azure v23 - November 2025 업데이트 버전, ppt](./build/ppt/Azure_Icon_jyseong@Nov-2025.pptx)
 
-### Microsoft Fabric
+**Microsoft Fabric**
 - [Microsoft Fabric, markdown](./build/md/MSFT_Fabric/MSFT-Fabric.md)
 
 ## 📦 저장소 구조
