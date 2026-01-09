@@ -32,7 +32,7 @@ Azure 아키콘(Architecture Icons)을 PPTX 슬라이드 또는 Markdown 문서�
     *   아이콘 **모양을 왜곡**하거나 **형상을 변경**하지 마세요. 
     *   Microsoft 제품 아이콘으로 **귀사의 제품/서비스를 표현**하지 마세요. 
     
-관련된 자세한 내용은 [Download Azure icons to use in architecture diagrams and documentation](https://learn.microsoft.com/en-us/azure/architecture/icons/)를 꼭 참고하시기 바랍니다.
+> 관련된 자세한 내용은 [Download Azure icons to use in architecture diagrams and documentation](https://learn.microsoft.com/en-us/azure/architecture/icons/)를 꼭 참고하시기 바랍니다.
 
 ***
 
